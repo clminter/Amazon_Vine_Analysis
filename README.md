@@ -2,6 +2,9 @@
 ### Overview
 Analyze a large dataset of reviews for the Musical Instruments category from the Amazon Vine program in order to determine bias between paid and unpaid reviewers.
 
+ - ![image](https://user-images.githubusercontent.com/81878169/130382571-0e07ef0b-1d9f-4e65-9be8-93cf0b35e652.png)
+
+
 ### Results
 #### Paid Reviewers
  - ![image](https://user-images.githubusercontent.com/81878169/130381465-30f56bd4-399f-4ecf-aa75-94b2bf7e7c5e.png)
