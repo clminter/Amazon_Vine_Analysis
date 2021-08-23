@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ### Overview
-Analyze large datasets of reviews for the Musical Instruments category in order to determine bias between paid and unpaid reviewers.
+Analyze a large dataset of reviews for the Musical Instruments category from the Amazon Vine program in order to determine bias between paid and unpaid reviewers.
 
 ### Results
 #### Paid Reviewers
