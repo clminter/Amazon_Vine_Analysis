@@ -11,4 +11,7 @@ Analyze large datasets of reviews for the Musical Instruments category in order 
 
 
 ### Summary
+Surprisingly, to me, the percentage of 5-star reviews for paid and unpaid reviewers for this product class is nearly identical.  However, the sample size of the paid reviewers is much smaller than for the un-paid reviewers.  It appears that there is no bias between the two groups.
+
+It would be recommended to study several more product categories to see if there are consistent results across the board.  Additionally, it would be interesting to see if paid reviewers tend to give more or less stars than non-paid reviewers.
 
